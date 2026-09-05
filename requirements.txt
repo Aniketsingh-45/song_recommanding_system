@@ -1,0 +1,12 @@
+# Core Web Frameworks
+fastapi>=0.110.0
+uvicorn>=0.28.0
+streamlit>=1.30.0
+
+# HTTP & API Requests
+requests>=2.31.0
+
+# Machine Learning & Data Processing
+pandas>=2.0.0
+scikit-learn>=1.4.0
+pydantic>=2.0.0
